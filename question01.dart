@@ -7,11 +7,11 @@ int totaldays = 80;
 int presentdays = 60;
 double attendance = presentdays/totaldays*100;
 if (obtmarks > 40 && attendance >= 75 ){
-print("pass");
-
-
+print("pass");}
+else {
   print ("fail");
 }
+
 
 
 
