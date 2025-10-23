@@ -9,7 +9,7 @@ double attendance = presentdays/totaldays*100;
 if (obtmarks > 40 && attendance >= 75 ){
 print("pass");}
 else {
-  print ("fail");
+print ("fail");
 }
 
 
@@ -20,3 +20,4 @@ else {
 
 
 }
+
